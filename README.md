@@ -1,0 +1,2 @@
+# SheCodes
+Introduction workshop project
